@@ -1,0 +1,12 @@
+[
+  {
+    "sender": "ay yo",
+    "recipient": "hi",
+    "text": "hi"
+  },
+  {
+    "sender": "hi",
+    "recipient": "ay yo",
+    "text": "hi bro"
+  }
+]
